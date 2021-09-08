@@ -50,3 +50,8 @@ body {
     background-image: linear-gradient(to bottom, #1ec2eb, #3498db);
     text-decoration: none;
   }
+  .red{
+      margin-right: 0.5vh;
+      font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive
+  }
