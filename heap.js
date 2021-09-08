@@ -61,11 +61,7 @@ class BinaryHeap {
             largest = right
         }
         // swap
-        if (largest !== index) {
-            let tmp = this.heap[largest];
-            this.heap[largest] = this.heap[index];
-            this.heap[index] = tmp;
-            this.sinkDown(largest)
+        
         }
     }
 }
